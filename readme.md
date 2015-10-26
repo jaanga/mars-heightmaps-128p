@@ -1,4 +1,4 @@
-[Jaanga]( http://jaanga.github.io/ ) &raquo; [Moon]( http://jaanga.github.io/moon/ )
+[Jaanga]( http://jaanga.github.io/ ) &raquo; [Mars]( http://jaanga.github.io/mars/ )
 
 [mars-heightmaps-128p Read Me]( index.html )
 ===
